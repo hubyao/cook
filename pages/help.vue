@@ -161,5 +161,5 @@
       </FAQItem>
     </div>
   </div>
-  <BaseFooter mt-4 />
+  <!-- <BaseFooter mt-4 /> -->
 </template>

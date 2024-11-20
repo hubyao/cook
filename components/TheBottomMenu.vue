@@ -20,18 +20,18 @@ const items: BottomMenuItem[] = [
   //   title: '吃什么',
   //   to: '/about',
   // },
-  {
-    icon: 'i-ri-question-line',
-    activeIcon: 'i-ri-question-fill',
-    title: '帮助',
-    to: '/help',
-  },
-  {
-    icon: 'i-ri-user-line',
-    activeIcon: 'i-ri-user-fill',
-    title: '我的',
-    to: '/user',
-  },
+  // {
+  //   icon: 'i-ri-question-line',
+  //   activeIcon: 'i-ri-question-fill',
+  //   title: '帮助',
+  //   to: '/help',
+  // },
+  // {
+  //   icon: 'i-ri-user-line',
+  //   activeIcon: 'i-ri-user-fill',
+  //   title: '我的',
+  //   to: '/user',
+  // },
 ]
 
 const route = useRoute()
